@@ -1,0 +1,2 @@
+include ':app', ':otherapp'
+rootProject.name='flying_test'
